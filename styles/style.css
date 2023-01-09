@@ -1,11 +1,13 @@
 /* Fontes */
 /* Cores */
+/* Tamanho das fontes */
 html, body {
   font-family: "Roboto", sans-serif;
 }
 
 /* Fontes */
 /* Cores */
+/* Tamanho das fontes */
 nav {
   text-align: center;
 }
@@ -25,6 +27,7 @@ nav ul li a:hover {
 
 /* Fontes */
 /* Cores */
+/* Tamanho das fontes */
 .banner {
   background: url("../imagens/banner.jpeg") 27% center no-repeat;
   min-height: 350px;
