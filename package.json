@@ -9,9 +9,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "\"Sass\"",
-    "\"CSS\"",
-    "\"HTML\""
+    "Sass",
+    "CSS",
+    "HTML"
   ],
   "author": "Otavio Henrique de Lima e Silva",
   "license": "ISC"
